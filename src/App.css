@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,23 @@
   to {
     transform: rotate(360deg);
   }
+}
+.photo{
+justify-content:center;
+
+}
+.name{
+  color:red;
+ 
+}
+.adresse{
+  color:gray;
+  
+}
+.App{
+  padding-top: 200px;
+  text-align:center;
+ 
+ 
+
 }
